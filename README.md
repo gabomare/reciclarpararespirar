@@ -4,7 +4,7 @@ Recliclar para Respirar
 
 ##Integrantes:
 Edwin Jaiquel Gongora
-Diego Diaz
+Diego Fernando Diaz Gonzalez
 Gabriel Mareño
 
 ##Solución

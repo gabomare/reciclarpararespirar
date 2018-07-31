@@ -3,9 +3,9 @@
 Recliclar para Respirar
 
 ##Integrantes:
-Edwin Jaiquel Gongora
+Edwin Alexander Jaiquel Gongora
 Diego Fernando Diaz Gonzalez
-Gabriel Mareño
+Gabriel Mareño Martinez
 
 ##Solución
 
